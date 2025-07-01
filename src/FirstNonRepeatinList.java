@@ -5,7 +5,7 @@ public class FirstNonRepeatinList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		List<Integer> list = Arrays.asList(0,1,0,1, 2, 3, 2, 4, 5, 4);
+		List<Integer> list = Arrays.asList(0,1,0,1, 2, 3, 2, 4, 5, 4,5);
 
         for (int i = 0; i < list.size(); i++) {
             int count = 0;
